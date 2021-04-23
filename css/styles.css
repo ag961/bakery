@@ -1,7 +1,8 @@
 body {
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      background-color: rgb(216, 194, 174);
-     color: black;}
+     color: black;
+    max-width: 1000px;}
 h1 {
     color: #880707;
     background-color: #a8d0f1;
