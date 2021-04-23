@@ -15,7 +15,9 @@ div.one {
     background-color:rgb(228, 193, 142); 
     padding: 10px;
     height: 300px;
-    width: 600px;}
+    width: 300px;
+    max-width: 300px;
+    text-align: left;}
 img {
     height: auto;
     width: auto;}
