@@ -54,10 +54,8 @@ ul {
 h3 {
     text-transform: uppercase;
     color: blue;
-    text-align: center;
-}
+    text-align: center;}
 h2 {
     text-transform: capitalize;
-    color: blue;
-    text-align: center;
-}
+    color: navy;
+    text-align: center;}
