@@ -56,3 +56,8 @@ h3 {
     color: blue;
     text-align: center;
 }
+h2 {
+    text-transform: capitalize;
+    color: blue;
+    text-align: center;
+}

@@ -1,3 +1,3 @@
 let fname = prompt("What's your name?");
 
-document.write("<h3>" + fname + "!</h3>");
+document.write("<h2>" + fname + "!</h2>");
