@@ -51,3 +51,8 @@ img.small {
 ul {
     text-align: center;
     margin: 10px auto 5px auto;}
+h3 {
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+}
