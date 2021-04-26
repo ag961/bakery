@@ -48,6 +48,12 @@ img.small {
     width: 300px;
     height: 300px;
    border: 2px outset;}
+#candle {
+    width: 30px;
+    height: 80px;}
+#candle2 {
+    margin: auto;
+}
 ul {
     text-align: center;
     margin: 10px auto 5px auto;}
